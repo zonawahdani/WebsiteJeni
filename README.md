@@ -9,7 +9,7 @@ Web
                  </th>
         </tr>
         <tr>
-            <td rowspan="4" bgcolor="AED9DA">   <img src="https://cdn2.uzone.id/assets/uploads/UZONEINC/gadget/TECNO/Camon%2040/tecno-camon-40-3.jpeg/800" height="200"height="300"></td>
+            <td rowspan="4" bgcolor="AED9DA">   <img src="https://cdn2.uzone.id/assets/uploads/UZONEINC/gadget/TECNO/Camon%2040/tecno-camon-40-3.jpeg/800" width="300"height="300"></td>
         </tr>
         <tr>
             <td bgcolor="AED9DA">Nama produk</td>
