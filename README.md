@@ -10,7 +10,7 @@ Web
                  </th>
         </tr>
         <tr>
-            <td rowspan="4" bgcolor="AED9DA">   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuzone.id%2Ftecno-camon-40-rilis-di-indonesia-harga-mulai-rp25-jutaan&psig=AOvVaw14sIGRA3b0fE5qwavAcLsT&ust=1744439095571000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCDhJisz4wDFQAAAAAdAAAAABAE" height="200"height="300"></td>
+            <td rowspan="4" bgcolor="AED9DA">   <img src="https://cdn2.uzone.id/assets/uploads/UZONEINC/gadget/TECNO/Camon%2040/tecno-camon-40-3.jpeg/800" height="200"height="300"></td>
         </tr>
         <tr>
             <td bgcolor="AED9DA">Nama produk</td>
