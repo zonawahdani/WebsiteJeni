@@ -2,7 +2,6 @@
 Web
 <html>
     <head>
-        <title>Tugas pembuatan tabel</title>
         <h1>Tugas pembuatan tabel</h1>
         <table border ="1">
         <tr>
